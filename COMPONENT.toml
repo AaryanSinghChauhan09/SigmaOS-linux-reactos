@@ -1,0 +1,9 @@
+[component]
+name = "SigmaOS-linux-reactos"
+description = "ReactOS binary execution and Win32 subsystem integration"
+version = "0.1.0"
+tier = 3
+
+[capabilities]
+contract_version = "1.0.0"
+principles = ["DRY", "KISS", "SOLID", "Arrange-Act-Assert", "Pristine-Sources", "Minimal-Kernel"]
