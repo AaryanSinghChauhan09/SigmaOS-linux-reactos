@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-reactos"
-description = "ReactOS binary execution and Win32 subsystem integration"
+description = "SigmaOS component: SigmaOS-linux-reactos"
 version = "0.1.0"
 tier = 3
 
